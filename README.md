@@ -47,4 +47,4 @@ _para salvar modificacoes use crtl + x_
 
 `*.class`
 
-_com isso serão ignorados os arquivos binarios_ 
+*com isso serão ignorados os arquivos binarios*
